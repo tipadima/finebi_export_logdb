@@ -10,14 +10,14 @@ Key features:
 - Configurable batch processing
 
 ## Project Structure
-.
-├── docker/
-│ └── Dockerfile # Container configuration
-├── example/
-│ └── config.json # Sample configuration
-├── requirements.txt # Python dependencies
-├── connect.py # ElasticSearch/MySQL connector
-└── main.py # Main script
+
+- **docker/**
+  - `Dockerfile` - Container configuration
+- **example/**
+  - `config.json` - Configuration example
+- `requirements.txt` - Python dependencies
+- `connect.py` - ElasticSearch/MySQL connector
+- `main.py` - Main script
 
 ## Quick Start
 
