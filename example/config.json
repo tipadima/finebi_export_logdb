@@ -1,0 +1,14 @@
+{
+    "elasticsearch": {
+        "address": "http://10.193.49.105:9200",
+        "username": "elastic",
+        "password": "elasticadmin"
+    },
+    "mysql": {
+        "address": "10.193.49.105:3306",
+        "database": "logdb",
+        "username": "root",
+        "password": "z9zNn85g"
+    },
+    "log_level": "INFO"
+}
